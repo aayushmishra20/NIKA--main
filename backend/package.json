@@ -30,10 +30,10 @@
     "@types/node": "^20.10.5",
     "@types/papaparse": "^5.3.14",
     "nodemon": "^3.0.2",
+    "supertest": "^6.3.4",
     "ts-node": "^10.9.2",
-    "typescript": "^5.3.3",
-    "vitest": "^1.6.0",
-    "supertest": "^6.3.4"
+    "typescript": "^5.9.3",
+    "vitest": "^1.6.0"
   },
   "keywords": [
     "nika",
@@ -42,5 +42,8 @@
     "backend"
   ],
   "author": "Jai Narula",
-  "license": "MIT"
+  "license": "MIT",
+  "directories": {
+    "test": "test"
+  }
 }
