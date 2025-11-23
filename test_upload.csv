@@ -1,0 +1,11 @@
+id,name,age,city,salary,email
+1,John Doe,25,New York,50000,john@example.com
+2,Jane Smith,30,London,60000,jane@example.com
+3,Bob Johnson,null,Paris,55000,null
+4,Alice Wilson,28,,62000,alice@example.com
+5,Charlie Brown,35,Tokyo,58000,charlie@example.com
+6,David Davis,25,New York,50000,john@example.com
+7,Eve Miller,null,Sydney,59000,eve@example.com
+8,Frank Garcia,32,Berlin,61000,frank@example.com
+9,Grace Lee,29,null,57000,grace@example.com
+10,Henry Taylor,33,Amsterdam,63000,null
